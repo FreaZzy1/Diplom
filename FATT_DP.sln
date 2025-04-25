@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FATT_DP", "FATT_DP\FATT_DP.csproj", "{3FF9D0EF-D922-472C-AB78-8C4DA66881DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF9D0EF-D922-472C-AB78-8C4DA66881DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF9D0EF-D922-472C-AB78-8C4DA66881DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF9D0EF-D922-472C-AB78-8C4DA66881DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF9D0EF-D922-472C-AB78-8C4DA66881DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67F2E6E2-4E43-499F-A543-FDC3C8FACDF4}
+	EndGlobalSection
+EndGlobal
